@@ -1,0 +1,16 @@
+{
+  "name": "travisci",
+  "version": "1.0.0",
+  "description": "legendary-spoon",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chpmnrssll/travisCI.git"
+  },
+  "author": "Russell Chapman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chpmnrssll/travisCI/issues"
+  },
+  "homepage": "https://github.com/chpmnrssll/travisCI#readme"
+}
