@@ -2,9 +2,14 @@ language: node_js
 node_js:
  - "node"
 
-cache:
-  directories:
-    - "node_modules"
+install: npm install
+
+# before_script:
+# - git config --global user.name "chpmnrssll"
+# - git config --global user.email "chpmnrssll@gmail.com"
+# - sed -i "s/__GITHUB_TOKEN__/${GITHUB_TOKEN}/" _config.yml
+
+script: npm run build
 
 deploy:
   provider: pages
@@ -13,3 +18,7 @@ deploy:
   keep-history: true
   on:
     branch: master
+
+cache:
+  directories:
+    - "node_modules"
