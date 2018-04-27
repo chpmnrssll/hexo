@@ -1,0 +1,43 @@
+# Logo (Font Awesome Class)
+fa_logo: fa-spoon
+
+# Header
+menu:
+  Home: /
+  Archives: /archives
+  About: /about.html
+  Tags: /tags
+  Categories: /categories
+  Contact: /contact.html
+
+# Default post title
+default_post_title: Untitled
+
+# Archive Date Format
+archive_date_format: MMM YYYY
+
+# Comments.
+comments:
+  # Disqus comments
+  disqus_shortname:
+
+# Google Analytics Tracking ID
+google_analytics:
+
+# Social Accounts
+twitter_url: https://twitter.com/?lang=en
+facebook_url: https://www.facebook.com/
+instagram_url: https://www.instagram.com/
+dribble_url: https://dribbble.com/
+github_url: https://github.com/klugjo/hexo-theme-alpha-dust
+googleplus_url: https://plus.google.com/
+behance_url: https://www.behance.net/
+fivehundredpx_url: https://500px.com/
+email_url: test@example.com
+rss_url: \#
+
+# Footer About Text
+footer_about: "Let us choose the change in the work done by the particle on the product of mass. Will one body and the work half-done by the work done by acting on displacement? -Legendary Spoon."
+
+# Footer Copyright Line
+footer_copyright: "@Untitled. All right reserved | Legendary Spoon"

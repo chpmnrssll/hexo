@@ -1,21 +1,21 @@
 {
-  "name": "travisci",
+  "name": "legendary-spoon",
   "version": "1.0.0",
-  "description": "legendary-spoon",
+  "description": "Github Pages + TraviCI + Hexo",
   "main": "index.js",
   "scripts": {
     "build": "hexo clean && hexo generate && hexo deploy"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chpmnrssll/travisCI.git"
+    "url": "git+https://github.com/chpmnrssll/legendary-spoon.git"
   },
   "author": "Russell Chapman",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chpmnrssll/travisCI/issues"
+    "url": "https://github.com/chpmnrssll/legendary-spoon/issues"
   },
-  "homepage": "https://github.com/chpmnrssll/travisCI#readme",
+  "homepage": "https://github.com/chpmnrssll/legendary-spoon#readme",
   "hexo": {
     "version": "3.7.1"
   },
